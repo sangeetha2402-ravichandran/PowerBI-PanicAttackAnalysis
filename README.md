@@ -69,18 +69,13 @@ Each page supports interactive filtering by:
 
 ---
 
-### 📈 Panic Frequency & Lifestyle Analysis
-![Panic Frequency](3.png)
-
----
-
 ### 📊 Age Group & Medical History Analysis
-![Age Group Analysis](4.png)
+![Age Group Analysis](3.png)
 
 ---
 
 ### 📉 Average Patient Symptoms Comparison
-![Average Symptoms](5.png)
+![Average Symptoms](4.png)
 
 ---
 
