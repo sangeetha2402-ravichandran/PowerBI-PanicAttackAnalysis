@@ -11,7 +11,7 @@
 ---
 
 ## 📌 Project Overview
-This project is part of ** Panic Attacks Data Analysis (Data Source: Snowflake)** from a data analytics course.  
+This project is part of Panic Attacks Data Analysis (Data Source: Snowflake) from a data analytics course.  
 The project demonstrates how to **load data into Snowflake**, query it using SQL, connect it to **Power BI**, perform transformations, and build **multi-page analytical reports**.
 
 ---
